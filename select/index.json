@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "燭 / wotaku feat. 鏡音レン",
+  "base_artist": "wotaku",
+  "createdAt": "2025-12-30T15:59:16.386667Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "燭",
+      "artist": "wotaku",
+      "has_synced": false,
+      "path": "select/pl_01_燭_wotaku.txt"
+    }
+  ]
+}
